@@ -1,27 +1,58 @@
-# Alveena Khan — Data Analyst Portfolio
+# Hi, I'm Alveena Khan 👋
 
-A responsive, single-page portfolio website built with HTML and CSS.
+### Aspiring Data Analyst | MCA Candidate
 
-## Preview locally
-1. Download and extract this folder.
-2. Double-click `index.html` to open it in your browser.
+Welcome to my GitHub portfolio! I'm a Business Development professional with 4 years of experience, currently pursuing my Master of Computer Applications (MCA) and transitioning into Data Analytics.
 
-## Publish using GitHub Pages
-1. Sign in to GitHub and open your profile.
-2. Click **New repository**.
-3. Name the repository exactly: `Alveenadataanalyst.github.io`
-4. Set it to **Public** and create the repository.
-5. Open the repository, choose **Add file → Upload files**.
-6. Upload `index.html` and `README.md` from this folder (not the ZIP file).
-7. Click **Commit changes**.
-8. Open **Settings → Pages**. If prompted, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-9. Wait a few minutes and open: `https://Alveenadataanalyst.github.io`
+I'm interested in using data to understand business performance, identify trends, and support better decision-making.
 
-## Before sharing with recruiters
-- Confirm your phone number, email, education details, dates, and links are correct.
-- Keep project status labels accurate. Do not claim a project is complete until you have finished the analysis and can explain your findings.
-- Add your real SQL scripts, dashboard screenshots, and project repository links as you finish each project.
-- You can remove your phone number from the public page if you prefer to keep it private.
+## 🌐 Portfolio
 
-## Customize
-Edit `index.html` in Notepad, VS Code, or another text editor. Save changes and upload the updated file to the repository.
+**Visit my website:** https://alveenadataanalyst.github.io/
+
+## 🛠️ Technical Skills
+
+- **SQL:** Filtering, aggregations, GROUP BY, HAVING, JOINs, subqueries
+- **Microsoft Excel:** Data cleaning, PivotTables, lookup formulas, charts
+- **Power BI:** Dashboard development, data visualization, Power Query
+- **Python:** Fundamentals of data analysis with Pandas, NumPy, and Matplotlib
+
+## 📊 Projects
+
+### 1. Retail Sales Analysis — In Progress
+- Working with real-world retail transaction data.
+- Exploring data quality, sales trends, products, and customer behavior.
+- Planned tools: Excel, MySQL, and Power BI.
+
+### 2. Customer & Sales Analysis — Planned
+- Exploring customer purchasing patterns and sales performance using SQL.
+- Practising filtering, aggregation, joins, and business-focused analysis.
+
+*Project descriptions will be updated with actual findings, queries, and dashboard links as the projects progress.*
+
+## 💼 Professional Experience
+
+**Business Development Executive — DAMS Pvt. Ltd.**
+
+- 4 years of experience in business development.
+- Experience tracking targets, monitoring business performance, and maintaining customer records.
+- Team leadership experience, including guiding a team of 20 people.
+
+## 🎓 Education
+
+- **Master of Computer Applications (MCA)** — Sikkim Manipal University, expected 2027
+- **Bachelor of Science (B.Sc.)** — IGNOU, 2023
+
+## 🎯 Career Goal
+
+I'm working toward an entry-level Data Analyst role where I can combine my business experience with analytical and technical skills.
+
+## 📫 Connect with Me
+
+- **LinkedIn:** https://www.linkedin.com/in/alveena-khan9540/
+- **GitHub:** https://github.com/Alveenadataanalyst
+- **Portfolio:** https://alveenadataanalyst.github.io/
+
+---
+
+*Thank you for visiting my portfolio!*
